@@ -45,7 +45,7 @@
 	<key>DTXcodeBuild</key>
 	<string>12A7300</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.15</string>
+	<string>10.9</string>
 	<key>LSRequiresCarbon</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
